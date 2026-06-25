@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Cybersecurity projects, small security tools, and improving my programming skills.<br>I am looking to collaborate on Open-source cybersecurity tools, CTF challenges, and security research projects.<br>I am looking for help with Advanced penetration testing, malware analysis, and real-world security practices.<br>I am currently learning Ethical hacking, vulnerability assessment, and secure software development.<br>Ask me about Cybersecurity, programming, Linux, and web development.<br>I enjoy breaking systems (ethically) just to understand how to secure them better.
+IS Auditor Trainee | Focused on GRC, risk management & compliance | Exploring secure software development & vulnerability assessment | Interested in open-source security tools & research | Passionate about strengthening systems through ethical analysis
 
 
 ## 🌐 Socials:
